@@ -67,7 +67,7 @@ Recall that SAS also has a procedure called PROC SQL that allows you to use SQL 
 #### b. (3 points) Compute the reported mean `cook_time` for dishes within each course
 
 
-#### c. (3 points) Compute the total time (`prep_time + cook_time`) required to make dishes within each course
+#### c. (3 points) Compute the average total time (`prep_time + cook_time`) required to make dishes within each course
 
 
 #### d. (3 points) How many dishes come from each region?
